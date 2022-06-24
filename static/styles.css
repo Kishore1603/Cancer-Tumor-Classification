@@ -1,0 +1,13 @@
+body{
+    background: url("../static/bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 200px;
+  }
+
+h1{
+   color: brown;
+}
+
